@@ -40,11 +40,11 @@ npm or Yarn
 
 1. **Clone the Repository**:
 
-   ```bash
+```bash
    git clone https://github.com/yourusername/dynamic-dashboard.git
    cd dynamic-dashboard
 
-   ```
+```
 
 ## Install Dependencies
 
